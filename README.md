@@ -1,5 +1,5 @@
-## Little Lemon
+## Little Lemon Newsletter Sign-up App
 
-This is the code example for the newsletter subscription application.
+A React Native application for the Little Lemon restaurant that allows users to sign up for their newsletter.
 
 ![](little_lemon.gif)
