@@ -14,3 +14,8 @@ A React Native application for the Little Lemon restaurant that allows users to 
 - React Native
 - React Navigation (Native Stack)
 - Expo
+
+### How to run
+```bash
+npm install
+npx expo start
