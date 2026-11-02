@@ -9,3 +9,8 @@ A React Native application for the Little Lemon restaurant that allows users to 
 - Navigation to Subscribe screen
 - Email validation
 - Confirmation alert on subscription
+
+### Tech Stack
+- React Native
+- React Navigation (Native Stack)
+- Expo
